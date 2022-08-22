@@ -27,17 +27,3 @@ This file is used to read text files, extract info from files/filenames, and to 
 3. EnvelopeLine.m
 4. radar.m
 5. Fig_Spectrum.m
-
-
-
-
-
-
-
-
-
-
-
-1. dataprocess: Calculate MBI, FR, frequency and power. 
-2. 
-
